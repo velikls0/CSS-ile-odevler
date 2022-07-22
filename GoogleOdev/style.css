@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    margin-top: 8%;
+}
+
+.Search{
+    background-color: rgb(228, 228, 228);
+    width: 100%;
+    height: 70px;
+}
+
+.box{
+    float: left;
+    margin-top: 5px;
+}
+
+.n1{
+    text-align: center;
+    background-color:#7ee5da;
+    width: 33.3%;
+    height: 90px;
+}
+
+.n2{
+    text-align: center;
+    background-color:#70ccc2 ;
+    width: 33.3%;
+    height: 90px;
+}
+
+.n3{
+    text-align: center;
+    background-color: #62b3aa;
+    width: 33.3%;
+    height: 90px;
+}
+
+.n1 .n2 .n3 tr{
+    margin-bottom: 5px;
+}
+
+.footer{
+    padding-top: 95px;
+}
