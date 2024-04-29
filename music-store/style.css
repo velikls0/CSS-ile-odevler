@@ -1,0 +1,63 @@
+header{
+    font-style: oblique;
+    font-size: 150%;
+    margin:auto;
+    text-align: center;
+}
+
+.title{
+    color: rgb(255, 0, 0);
+}
+
+.homeNav{
+    margin-top: 10px;
+    text-align: center;
+    height: 50px;
+}
+
+.homeNav ul{
+    list-style: none;
+}
+
+.homeNav li{
+    display: inline;
+    padding-right: 2%;
+}
+
+.homeContent{
+    text-align: center;
+}
+
+.homeContent h2{
+    color: aqua;
+}
+
+.assets{
+    margin-left: 43%;
+}
+
+.assets h3{
+    color: blueviolet;
+}
+
+.aboutVs h2{
+    color: cadetblue;
+    text-align: center;
+}
+
+.aboutVs h3{
+    color: darkgoldenrod;
+}
+
+.products h2{
+    text-align: center;
+    color: deeppink;
+}
+
+.products ol{
+    margin-left: 43%;
+}
+
+.products ol li img{
+    width: 20%;
+}
